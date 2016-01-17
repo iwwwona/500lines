@@ -1,6 +1,6 @@
 import numpy as np
 from multinomial import MultinomialDistribution
-
+#przykladowa zmiana
 
 class MagicItemDistribution(object):
 
