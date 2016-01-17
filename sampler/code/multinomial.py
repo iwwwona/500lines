@@ -2,6 +2,8 @@ import numpy as np
 from scipy.special import gammaln
 
 # arek comments: just do it
+#Adding new comment
+
 
 class MultinomialDistribution(object):
 
